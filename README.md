@@ -27,13 +27,13 @@ The Super Senses Web Application is a dynamic web application developed using Re
 
 Here are some screenshots of the Super Senses web application:
 
-![Homepage](assets/Home%interface.png)
+![Homepage](assets/Home_interface.png)
 *Homepage of the application*
 
-![Home](assets/Home%2.png)
+![Home](assets/Home_2.png)
 
 
-![Interface](assets/Nos%Expertise.png)
+![Interface](assets/Nos_Expertise.png)
 ![Responsive](assets/responsive.png)
 
 
