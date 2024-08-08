@@ -18,11 +18,6 @@ The Super Senses Web Application is a dynamic web application developed using Re
 
 
 
-### How to Use the Datasets
-
-- **Importing**: Instructions on how to import or use the datasets in the application.
-- **Processing**: Description of any data preprocessing or transformations applied.
-
 ## Project Screenshots
 
 Here are some screenshots of the Super Senses web application:
