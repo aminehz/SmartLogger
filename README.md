@@ -8,7 +8,7 @@ The Super Senses Web Application is a dynamic web application developed using Re
 
 - **User Interface**: Modern and responsive UI built with ReactJS.
 - **Backend Integration**: Robust backend API services using ExpressJS.
-- **Deployment**: Hosted and available online at [https://supersenses.tn/](https://supersenses.tn/).
+- **Deployment**: Hosted online server.
 
 ## Technologies
 
