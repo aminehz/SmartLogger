@@ -33,7 +33,5 @@ Here are some screenshots of the Super Senses web application:
 
 
 
-## Deployment
 
-The application is deployed and accessible at [https://supersenses.tn/](https://supersenses.tn/).
 
